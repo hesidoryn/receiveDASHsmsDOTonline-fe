@@ -1,0 +1,5 @@
+.main {
+    /* Ссылка на файл изображения */
+    background: url('./images/background.png');
+    color: red;
+}
